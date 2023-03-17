@@ -97,7 +97,7 @@ window.test = async function test() {
             method: 'POST',
             headers: {
                 'content-type': 'application/x-www-form-urlencoded',
-                'X-RapidAPI-Key': '7f5ebdc991msh779918a8b5d23a9p10d434jsne9e7e4a1586e',
+                'X-RapidAPI-Key': '',
                 'X-RapidAPI-Host': 'codex7.p.rapidapi.com'
             },
             body: encodedParams
